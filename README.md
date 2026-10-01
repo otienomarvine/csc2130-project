@@ -5,10 +5,9 @@
 Marvine Wi-Fi Shop Website
 
 ## Student Information
-
-- Name: YOUR NAME
-- Registration Number: YOUR REGISTRATION NUMBER
-- Course: CSC2130 – Introduction to Web Development
+ Name: OTIENO MARVINE
+ Registration Number: COM/0099/25
+ Course: CSC2130 – Introduction to Web Development
 
 ## Project Description
 
